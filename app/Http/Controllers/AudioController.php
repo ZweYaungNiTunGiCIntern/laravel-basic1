@@ -13,7 +13,7 @@ class AudioController extends Controller
      */
     public function index()
     {
-        return view(test);
+        return view('test');
     }
 
     /**
